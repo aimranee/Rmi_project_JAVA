@@ -1,0 +1,6 @@
+[submodule "ClientG7"]
+	path = ClientG7
+	url = https://github.com/aimranee/client_G7.git
+[submodule "ServerG7"]
+	path = ServerG7
+	url = https://github.com/aimranee/server_G7.git
